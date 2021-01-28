@@ -1,7 +1,0 @@
-This is the info for the last game you ran.
-
-File: Earthbound (U).zip Header: Yes
-EARTH BOUND               TYPE:NORMAL   
-INTERLEAVED:No               CHKSUM:OK  
-VIDEO:NTSC    BANK:Hi     CRC32:DC9BB451
-                                        
